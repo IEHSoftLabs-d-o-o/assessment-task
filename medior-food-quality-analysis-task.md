@@ -44,10 +44,6 @@ This task simulates a real-world challenge in the food industry and provides an 
    - Explain their choice of technologies (e.g., why PostgreSQL or RabbitMQ).
    - Include one example **unit test** (e.g., validating input in QualityManager) and one **integration test** (e.g., testing communication between QualityManager and AnalysisEngine via the message broker).
    - Create a docker-compose file to run the application (database, services, and message broker).
-
-2. Excluded complexity:
-   - No dynamic containers or gRPC communication, to keep the task simple for a medior-level developer.
-
 ---
 
 Good luck! We look forward to your solution.
